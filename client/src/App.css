@@ -1,0 +1,19 @@
+.app {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    background-color: #075e54;
+}
+
+.app__body {
+    display: flex;
+    background-color: #ededed;
+    margin-top: -1px;
+    height: 95vh;
+    width: 90vw;
+}
+
+.divider {
+    height: 20vh;
+    background-color: #075e54;
+}
